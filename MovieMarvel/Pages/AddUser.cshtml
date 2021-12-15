@@ -1,0 +1,33 @@
+﻿@page
+@model MovieMarvel.Pages.AddUserModel
+@{
+    ViewData["Title"] = "AddUser";
+    //Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<div id="grid" style="background-image: url(../images/backgroundCover.png),
+     url(../images/MovieMarvelBackground.jpg);
+     background-size: cover, cover; background-position: center, center;
+     background-repeat: repeat, no-repeat;">
+    <header>
+        <a href="./Index" title="Go Home Hero">
+            <img src="~/images/moviemarvelLogo.png" style="margin: 0 auto;" />
+        </a>
+    </header>
+    <div id="newUser">
+        <form id="newUserForm" method="post" asp-page-handler="NewUser">
+            <input type="text" name="email" placeholder="email address" required/>
+            <input type="password" name="password" placeholder="password" required/>
+            <input type="submit" value="Create Account" />
+        </form>
+    </div>
+    <footer>
+        <input type="image" class="fThumbs" src="~/images/dragonBitLogo.png" alt="DragonBit Studio" />
+        <input type="image" class="fThumbs" src="~/images/VSlogo.svg.png" alt="Visual Studio" />
+        <input type="image" class="fThumbs" src="~/images/dotnetcoreLogo.png" alt=".Net Core" />
+        <input type="image" class="fThumbs" src="~/images/csharpLogo.png" alt="C#" />
+        <input type="image" class="fThumbs" src="~/images/sqlserverLogo.png" alt="SQL Server" />
+        <input type="image" class="fThumbs" src="~/images/HTML5Badge.png" alt="HTML 5" />
+        <input type="image" class="fThumbs" src="~/images/CSS3Logo.png" alt="CSS 3" />
+    </footer>
+</div>

@@ -1,0 +1,406 @@
+
+#cartPanel {
+    position: absolute;
+    z-index: 33;
+    width: calc(60% - 20px);
+    left: 20%;
+    height: 250px;
+    padding: 10px;
+    background: rgba(13, 13, 13, .99);
+    border: 1px solid #fff;
+    border-top: 0;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    box-shadow: 0 4px 11px #999;
+    top: -271px;
+}
+
+.cartItem {
+    float: left;
+    max-width: 90px;
+    color: #fff;
+    margin: 0 1px;
+    text-align: center;
+}
+    .cartItemImg {
+        max-width: 80px;
+        border: 2px solid #fff;
+        border-radius: 3px;
+        margin: 2px
+    }
+    .cartItemTitle {
+        font-size: .7em;
+        font-family: 'Roboto', sans-serif;
+        color: #fff;
+    }
+    .movieTitleText {
+        min-height: 70px;
+    }
+
+#checkoutButton {
+    position: absolute;
+    bottom: 8px;
+    left: 8px;
+    width: calc(100% - 16px);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border: 1px solid #fff;
+    font-weight: 700;
+    font-size: 1.2em;
+    background: #52B052;
+    padding: 5px 21px;
+    color: #fff;
+}
+    #checkoutButton:hover {
+        color: #000;
+        background: #3b820f;
+        border: 1px solid #000;
+    }
+
+body {
+    width: 100%;
+    margin: 0 auto;
+    background-image: url(../images/MovieMarvelBackground.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Roboto', sans-serif;
+}
+
+#grid
+{
+    display: grid;
+    width: 100%;
+    grid-template-columns: repeat(6, 1fr);
+    grid-auto-rows: minmax(100px, auto);
+    grid-template-areas:
+        "hdr hdr hdr hdr hdr hdr"
+        "sch sch sch sch sch sch"
+        " .   .  sup sup  .   . "
+        "vid vid vid vid vid vid"
+        "rat rat des des des des"
+        "cas cas cas cas cas cas"
+        "cas cas cas cas cas cas"
+        "cas cas cas cas cas cas"
+        "ftr ftr ftr ftr ftr ftr";
+}
+
+header
+{
+    grid-area: hdr; 
+    text-align: center;
+    margin: 57px 0;
+}
+    header img {
+        width: 60%;
+    }
+#search
+{
+    display: grid;
+    grid-area: sch;
+    width: 100%;
+    text-align: center;
+}
+    #search input {
+        width: 220px;
+        padding: 4px;
+        padding-left: 8px;
+        color: #ddd;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        font-size: 1.2em;
+        font-family: 'Roboto', sans-serif;
+        margin: 1px;
+    }
+    #searchButton {
+        border-radius: 4px;
+        border: 1px solid #444;
+        font-weight: 700;
+        font-size: 1.2em;
+        background: #232F43;
+        max-width: 130px;
+    }
+        #searchButton:hover {
+            background: #ADD3F5;
+            color: #444;
+        }
+    #rentButton {
+        border-radius: 4px;
+        border: 1px solid #fff;
+        font-weight: 700;
+        font-size: 1.2em;
+        background: #5DCB5D;
+        padding: 5px 21px;
+        max-width: 260px;
+    }
+        #rentButton:hover {
+            background: #348134;
+            color: #eee;
+        }
+#newUser {
+    display: grid;
+    grid-area: sup;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: -100px;
+    text-align: center;
+}
+
+#newUserForm {
+    text-align: center;
+    width: 100%;
+    padding: 25px;
+    padding-top: 47px;
+    border: 1px solid #444;
+    border-radius: 12px;
+    background: rgba(255, 255, 255, .13);
+}
+    #newUserForm input {
+        width: 220px;
+        padding: 4px;
+        padding-left: 8px;
+        color: #999;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        font-size: 1.2em;
+        font-family: 'Roboto', sans-serif;
+        margin: 1px;
+    }
+    #newUserForm input[type="submit"]{
+        font-weight: 700;
+        color: #444;
+        margin-bottom: 0;
+    }
+
+#cart {
+    position: fixed;
+    z-index: 13;
+    background: rgba(255, 255, 255, .13);
+    width: 100%;
+    text-align: right;
+    padding: 5px 16px 5px 0;
+}
+
+    #cart input {
+        width: 140px;
+        padding: 1px;
+        padding-left: 4px;
+        color: #999;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        font-size: 1em;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    #cart i {
+        font-size: 1.6em;
+        margin: 0 11px;
+        color: #ddd;
+    }
+
+    #cart a:hover i {
+        color: #bb8;
+    }
+.thumbs 
+{
+    display: inline; 
+    max-width: 100px; 
+    border: 4px solid #fff;
+    border-radius: 3px;
+    margin: 8px
+}
+#searchImage input {
+    padding: 0;
+    border: 2px solid #fff;
+    border-radius: 3px;
+}
+
+#search input[type="submit"] {
+    margin-bottom: 20px;
+}
+#desc {
+    display: grid;
+    grid-area: des;
+    width: 100%;
+    height: 100%;
+    vertical-align: top;
+    margin: auto 0;
+    font-size: 1.3em;
+}
+    #desc p {
+        margin-top: -70px;
+    }
+#rating {
+    display: grid;
+    grid-area: rat;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+#video 
+{
+    grid-area: vid;
+    width: 100%;   
+    text-align: center;
+    margin-bottom: 20px;
+}
+.framediv 
+{
+    display: table;
+    margin: 0 auto;
+}
+.frame 
+{
+    width: 300px;
+    margin: 10px;
+    border-radius: 2px;
+}
+#cast 
+{
+    display: grid;
+    grid-area: cas;
+    width: 100%;
+    margin-top: 21px;
+    text-align: center;
+}
+#castdiv 
+{
+    display: table;
+    margin: 0 auto;
+}
+#castimg
+{
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+.castPic {
+    display: inline-block;
+    margin: 13px;
+    border: 3px solid #fff;
+    border-radius: 50%;
+}
+footer {
+    display: table;
+    grid-area: ftr;
+    width: 100%;
+    height: 90px;
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: #eee;
+    font-size: 1.1em;
+    background: rgba(255, 255, 255, .13);
+}
+    .fThumbs {
+        display: inline;
+        margin: 13px;
+        width: 60px;
+    }
+
+/* Vote Classes */
+.noVote {
+    width: 75px;
+    display: block;
+    margin: 7px auto;
+    opacity: .21;
+}
+    .noVote:hover {
+        opacity: .67;
+    }
+.vote {
+    width: 75px;
+    display: block;
+    margin: 7px auto;
+    opacity: 1;
+}
+
+
+/* CAST STYLES */
+#castGrid
+{
+    display: grid;
+    width: 100%;
+    grid-template-columns: repeat(6, 1fr);
+    grid-auto-rows: minmax(100px, auto);
+    grid-template-areas:
+        "hdr hdr hdr hdr hdr hdr"
+        "pic pic bio bio bio bio"
+        "gal gal gal gal gal gal"
+        "ftr ftr ftr ftr ftr ftr";
+}
+#bioImg {
+    display: grid;
+    grid-area: pic;
+    width: 100%;
+    align-content: flex-start;
+    text-align: center;
+    font-size: 1.5em;
+    padding: 0 33px;
+}
+.bioPic {
+    display: inline-block;
+    margin: 0 auto;
+    border: 5px solid #fff;
+    box-shadow: 2px 2px 3px #444;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+#bioText {
+    display: grid;
+    grid-area: bio;
+    width: 100%;
+    color: #fff;
+    padding: 0 75px;
+    font-size: 1.5em;
+    align-content: flex-start;
+    line-height: 175%;
+}
+    .bioHeading {
+        font-weight: 700;
+        color: #fff;
+        font-size: 2.3em;
+        font-family: 'Playball', cursive;
+        text-decoration: underline;
+    }
+    .bioName {
+        font-weight: 700;
+        color: #fff;
+        font-size: 2.3em;
+        font-family: 'Playball', cursive;
+        text-decoration: underline;
+    }
+    .age {
+        font-size: 1.7em;
+        font-weight: 700;
+        color: #fff;
+        margin: 3px 21px;
+    }
+    .born {
+        font-size: 1.1em;
+        color: #ddd;
+        padding: 3px 15px;
+        margin: 11px 21px;
+    }
+    .birthplace {
+        font-size: 1.1em;
+        color: #eee;
+        margin: 3px;
+    }
+#actImgs {
+    display: inline-block;
+    grid-area: gal;
+    width: 100%;
+    min-height: 400px;
+    padding: 50px;
+    text-align: center;
+}
+.randomPics {
+    display: inline;
+    width: 180px;
+    margin: 7px;
+    border: 3px solid #999;
+    border-radius: 4px;
+}

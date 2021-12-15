@@ -1,0 +1,148 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div id="grid" style="background-image: url(../images/backgroundCover.png), url(https://image.tmdb.org/t/p/original/@Model.backDrop); 
+     background-size: cover, cover; background-position: center, center; background-repeat: repeat, no-repeat;">
+    <header>
+        <a href="./Index" title="Go Home Hero">
+            <img src="~/images/moviemarvelLogo.png" style="margin: 0 auto;" />
+        </a>
+    </header>
+    <div id="search">
+        <form method="post" asp-page-handler="Movies">
+            <input type="text" name="search" placeholder="search" value=@Model.search>
+            <input id="searchButton" type="submit" name="search" value="Find Movie">
+        </form>
+
+        <form id="searchImage" method="post" asp-page-handler="Details">
+            @if (Model.empty)
+            {
+                <p style="font-weight: bold; color: black">
+                    &quot;PLEASE ENTER A MOVIE TITLE TO RUN SEARCH!!!&quot;
+                </p>
+            }
+            else
+            {
+                @for (int i = 0; i < Model.posterPath.Count; i++)
+                {
+                    if (Model.posterPath[i] != "")
+                    {
+                        string imagePath = "https://image.tmdb.org/t/p/w500/" + Model.posterPath[i];
+                        if (Model.posterPath[i].Length > 4)
+                        {
+                            <input type="image" src=@imagePath class="thumbs" name="movieData" value=@Model.id[i]>
+                        }
+                    }
+                }
+            }
+        </form>
+    </div>
+    <div id="video">
+        @for (int i = 0; i < Model.titles.Count; i++)
+        {
+            <form method="post" asp-page-handler="Rent">
+                <p id="title" style="font-weight: bold; font-size: 2.1em; color: white">
+                    @Model.titles[0] - Trailers
+                </p>
+                <input id="rentButton" type="submit" name="rent" value="Rent this Movie Now!" />
+            </form>
+        }
+
+        <div class="framediv">
+            @for (int i = 0; i < Model.vidClips.Count; i++)
+            {
+                @if (i < 3)
+                {
+                    <iframe src="https://www.youtube.com/embed/@Model.vidClips[i]" class="frame"
+                            frameborder="1" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                }
+            }
+        </div>
+    </div>
+    <div id="rating" style="display: @Model.display">
+        <div>
+            <h1 style="color: gold; text-align: center; margin-top: 0;">@Model.rating</h1>
+            <form method="post" asp-page-handler="Vote">
+                @if (Model.voteAmount == 0)
+                {
+                    <input class="noVote" type="image" name="vote" value="1"
+                           src="~/images/redLight.png" />
+                    <input class="noVote" type="image" name="vote" value="2"
+                           src="~/images/yellowLight.png" />
+                    <input class="noVote" type="image" name="vote" value="3"
+                           src="~/images/greenLight.png" />
+                }
+                @if (Model.voteAmount == 1)
+                {
+                    <input class="vote" type="image" name="vote" value="1"
+                           src="~/images/redLight.png" />
+                    <input class="noVote" type="image" name="vote" value="2"
+                           src="~/images/yellowLight.png" />
+                    <input class="noVote" type="image" name="vote" value="3"
+                           src="~/images/greenLight.png" />
+                }
+                @if (Model.voteAmount == 2)
+                {
+                    <input class="noVote" type="image" name="vote" value="1"
+                           src="~/images/redLight.png" />
+                    <input class="vote" type="image" name="vote" value="2"
+                           src="~/images/yellowLight.png" />
+                    <input class="noVote" type="image" name="vote" value="3"
+                           src="~/images/greenLight.png" />
+                }
+                @if (Model.voteAmount == 3)
+                {
+                    <input class="noVote" type="image" name="vote" value="1"
+                           src="~/images/redLight.png" />
+                    <input class="noVote" type="image" name="vote" value="2"
+                           src="~/images/yellowLight.png" />
+                    <input class="vote" type="image" name="vote" value="3"
+                           src="~/images/greenLight.png" />
+                }
+            </form>
+        </div>
+    </div>
+    <div id="desc">
+        <h2 style="margin: 0; display: @Model.display; color: gold">SYNOPSIS:</h2>
+        @if (Model.description.Length > 300)
+        {
+            <p style="color: white; font-size: 1.3em; padding-right: 20px;">@Model.description.Substring(0, 297) ...</p>
+        }
+        else
+        {
+            <p style="color: white; font-size: 1.3em; padding-right: 20px;">@Model.description</p>
+        }
+    </div>
+    <div id="cast">
+        <h2 style="margin: auto 0; color: white; padding: 0; vertical-align:middle; display: @Model.display">CAST</h2>
+        <div id="castdiv">
+            <form method="post" asp-page-handler="Cast">
+                @for (int i = 0; i < Model.actorImg.Count; i++)
+                {
+                    @if (i < 12)
+                    {
+                        if (Model.actorImg[i].Length > 4)
+                        {
+                            string cID = Model.castID[i];
+                            <div name="cast" value="@cID" class="castPic" style="background: url(https://image.tmdb.org/t/p/w500/@Model.actorImg[i]); background-size: cover; background-position: center; width: 240px; height: 240px;">
+                                <input type="image" name="cast" value="@cID" style="min-width: 240px; min-height: 240px;" />
+                            </div>
+                        }
+                    }
+                }
+            </form>
+        </div>
+    </div>
+    <footer>
+        <input type="image" class="fThumbs" src="~/images/dragonBitLogo.png" alt="DragonBit Studio" />
+        <input type="image" class="fThumbs" src="~/images/VSlogo.svg.png" alt="Visual Studio" />
+        <input type="image" class="fThumbs" src="~/images/dotnetcoreLogo.png" alt=".Net Core" />
+        <input type="image" class="fThumbs" src="~/images/csharpLogo.png" alt="C#" />
+        <input type="image" class="fThumbs" src="~/images/sqlserverLogo.png" alt="SQL Server" />
+        <input type="image" class="fThumbs" src="~/images/HTML5Badge.png" alt="HTML 5" />
+        <input type="image" class="fThumbs" src="~/images/CSS3Logo.png" alt="CSS 3" />
+    </footer>
+</div>

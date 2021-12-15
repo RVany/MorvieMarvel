@@ -1,0 +1,176 @@
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.deps.json
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.runtimeconfig.json
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.runtimeconfig.dev.json
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.dll
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.pdb
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.Views.dll
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.Views.pdb
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.csprojAssemblyReference.cache
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.csproj.CoreCompileInputs.cache
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorAssemblyInfo.cache
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorAssemblyInfo.cs
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.AssemblyInfoInputs.cache
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.AssemblyInfo.cs
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.TagHelpers.input.cache
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.TagHelpers.output.cache
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorCoreGenerate.cache
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorTargetAssemblyInfo.cache
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorTargetAssemblyInfo.cs
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.Views.pdb
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.dll
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.pdb
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.csproj.CopyComplete
+C:\Users\ogilo\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Cast.g.cshtml.cs
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.deps.json
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.runtimeconfig.json
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.runtimeconfig.dev.json
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.dll
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.pdb
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.Views.dll
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.Views.pdb
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.csprojAssemblyReference.cache
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.csproj.CoreCompileInputs.cache
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorAssemblyInfo.cache
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorAssemblyInfo.cs
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.AssemblyInfoInputs.cache
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.AssemblyInfo.cs
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.TagHelpers.input.cache
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.TagHelpers.output.cache
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorCoreGenerate.cache
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Cast.g.cshtml.cs
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorTargetAssemblyInfo.cache
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorTargetAssemblyInfo.cs
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.Views.pdb
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.dll
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.pdb
+D:\Mark-MovieMarvel\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.csproj.CopyComplete
+D:\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.deps.json
+D:\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.runtimeconfig.json
+D:\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.runtimeconfig.dev.json
+D:\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.dll
+D:\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.pdb
+D:\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.Views.dll
+D:\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.Views.pdb
+D:\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.csprojAssemblyReference.cache
+D:\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.csproj.CoreCompileInputs.cache
+D:\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorAssemblyInfo.cache
+D:\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorAssemblyInfo.cs
+D:\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.AssemblyInfoInputs.cache
+D:\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.AssemblyInfo.cs
+D:\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.TagHelpers.input.cache
+D:\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.TagHelpers.output.cache
+D:\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorCoreGenerate.cache
+D:\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Cast.g.cshtml.cs
+D:\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+D:\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+D:\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+D:\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+D:\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorTargetAssemblyInfo.cache
+D:\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorTargetAssemblyInfo.cs
+D:\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.Views.pdb
+D:\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.dll
+D:\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.pdb
+D:\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.csproj.CopyComplete
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.deps.json
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.runtimeconfig.json
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.runtimeconfig.dev.json
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.dll
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.pdb
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.Views.dll
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.Views.pdb
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.csprojAssemblyReference.cache
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.csproj.CoreCompileInputs.cache
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorAssemblyInfo.cache
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorAssemblyInfo.cs
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.AssemblyInfoInputs.cache
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.AssemblyInfo.cs
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.TagHelpers.input.cache
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.TagHelpers.output.cache
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorCoreGenerate.cache
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Cast.g.cshtml.cs
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorTargetAssemblyInfo.cache
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorTargetAssemblyInfo.cs
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.Views.pdb
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.dll
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.pdb
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.csproj.CopyComplete
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.deps.json
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.runtimeconfig.json
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.runtimeconfig.dev.json
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.dll
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.pdb
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.Views.dll
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.Views.pdb
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.csprojAssemblyReference.cache
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.csproj.CoreCompileInputs.cache
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorAssemblyInfo.cache
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorAssemblyInfo.cs
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.AssemblyInfoInputs.cache
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.AssemblyInfo.cs
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.TagHelpers.input.cache
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.TagHelpers.output.cache
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorCoreGenerate.cache
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Cast.g.cshtml.cs
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorTargetAssemblyInfo.cache
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorTargetAssemblyInfo.cs
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.Views.pdb
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.dll
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.pdb
+C:\Users\alien\OneDrive\Public\DotNet Core\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.csproj.CopyComplete
+C:\Users\alien\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\AddUser.g.cshtml.cs
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.deps.json
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.runtimeconfig.json
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.runtimeconfig.dev.json
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.dll
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.pdb
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.Views.dll
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\bin\Debug\netcoreapp2.1\MovieMarvel.Views.pdb
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.csprojAssemblyReference.cache
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.csproj.CoreCompileInputs.cache
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorAssemblyInfo.cache
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorAssemblyInfo.cs
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.AssemblyInfoInputs.cache
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.AssemblyInfo.cs
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.TagHelpers.input.cache
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.TagHelpers.output.cache
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorCoreGenerate.cache
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\AddUser.g.cshtml.cs
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Cast.g.cshtml.cs
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorTargetAssemblyInfo.cache
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.RazorTargetAssemblyInfo.cs
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.Views.pdb
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.dll
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.pdb
+C:\Users\rrvan\source\repos\MovieMarvel\MovieMarvel\obj\Debug\netcoreapp2.1\MovieMarvel.csproj.CopyComplete

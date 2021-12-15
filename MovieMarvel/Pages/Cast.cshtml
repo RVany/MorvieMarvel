@@ -1,0 +1,52 @@
+﻿@page
+@model MovieMarvel.Pages.CastModel
+@{
+    ViewData["Title"] = "Cast";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<div id="castGrid" style="background-image: url(../images/backgroundCover.png),
+     url(https://image.tmdb.org/t/p/original/@Model.img);
+     background-size: cover, cover; background-position: center, center;
+     background-repeat: repeat, no-repeat;">
+    <header>
+        <a href="./Index" title="Go Home Hero">
+            <img src="~/images/moviemarvelLogo.png" style="margin: 0 auto;" />
+        </a>
+    </header>
+
+    @{
+        for (int i = 0; i < Model.images.Count; i++)
+        {
+            Model.imageURLs += Model.images[i];
+            Model.imageURLs += ";";
+        } 
+    }
+
+    <div id="bioImg" onclick="loadImage('@Model.imageURLs');">
+        <h1 class="bioName">@Model.name</h1>
+        <span class="age">@Model.age years old</span>
+        <div id="bioPicture" name="cast" class="bioPic" style="background: url(https://image.tmdb.org/t/p/w500/@Model.img); background-size: cover; background-position: center; width: 320px; height: 320px;"></div>
+        <span class="born">Born: @Model.birthYear @Model.birthplace</span>
+        <a href="https://www.imdb.com/name/@Model.imdb_id" title="@Model.name IMDB" target="_blank">See more on IMDB</a>
+    </div>
+    <div id="bioText">
+        <h1 class="bioHeading">Biography</h1>
+        <p>@Model.bio</p>
+    </div>
+    <div id="actImgs">
+        @for (int i = 0; i < Model.images.Count; i++)
+        {
+            <img class="randomPics" src="https://image.tmdb.org/t/p/w500/@Model.images[i]" alt="test" />
+        }
+    </div>
+    <footer>
+        <input type="image" class="fThumbs" src="~/images/dragonBitLogo.png" alt="DragonBit Studio" />
+        <input type="image" class="fThumbs" src="~/images/VSlogo.svg.png" alt="Visual Studio" />
+        <input type="image" class="fThumbs" src="~/images/dotnetcoreLogo.png" alt=".Net Core" />
+        <input type="image" class="fThumbs" src="~/images/csharpLogo.png" alt="C#" />
+        <input type="image" class="fThumbs" src="~/images/sqlserverLogo.png" alt="SQL Server" />
+        <input type="image" class="fThumbs" src="~/images/HTML5Badge.png" alt="HTML 5" />
+        <input type="image" class="fThumbs" src="~/images/CSS3Logo.png" alt="CSS 3" />
+    </footer>
+</div>
